@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bezier", "Bezier\Bezier.csproj", "{C7D784FE-E489-459E-A524-5CEBFE5B000E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BezierTest", "BezierTest\BezierTest.csproj", "{60011799-7578-48F5-91C8-4D1C6841F5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D784FE-E489-459E-A524-5CEBFE5B000E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D784FE-E489-459E-A524-5CEBFE5B000E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D784FE-E489-459E-A524-5CEBFE5B000E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D784FE-E489-459E-A524-5CEBFE5B000E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60011799-7578-48F5-91C8-4D1C6841F5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60011799-7578-48F5-91C8-4D1C6841F5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60011799-7578-48F5-91C8-4D1C6841F5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60011799-7578-48F5-91C8-4D1C6841F5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D1F7290-FB72-4CFD-B080-0DC7B70E374C}
+	EndGlobalSection
+EndGlobal

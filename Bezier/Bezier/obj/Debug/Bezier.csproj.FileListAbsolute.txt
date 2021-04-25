@@ -1,0 +1,7 @@
+C:\Users\dmmol\source\repos\Bezier\Bezier\obj\Debug\Bezier.csprojAssemblyReference.cache
+C:\Users\dmmol\source\repos\Bezier\Bezier\obj\Debug\Bezier.csproj.CoreCompileInputs.cache
+C:\Users\dmmol\source\repos\Bezier\Bezier\bin\Debug\Bezier.exe.config
+C:\Users\dmmol\source\repos\Bezier\Bezier\bin\Debug\Bezier.exe
+C:\Users\dmmol\source\repos\Bezier\Bezier\bin\Debug\Bezier.pdb
+C:\Users\dmmol\source\repos\Bezier\Bezier\obj\Debug\Bezier.exe
+C:\Users\dmmol\source\repos\Bezier\Bezier\obj\Debug\Bezier.pdb
